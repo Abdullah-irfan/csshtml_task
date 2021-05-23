@@ -10,8 +10,8 @@ div {
     margin-left: 20%;
     
     border:  #ccc;
-    border-style: solid;
-  border-width: medium;
+    border-style:groove;
+  border-width:1px;
     align-items: center;
    
   }
